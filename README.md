@@ -196,7 +196,7 @@ A 3D simulation environment was built using Unreal Engine 5 (UE5). Pre-existing 
 <p align="center">
   <img src="figures/overhead_stitched_images.png" alt="Overhead images stitched together with edge detection" width="450"/>
 </p>
-<p align="center"><em>Figure 3.5 — Overhead images stitched together (left) and with Canny edge detection applied (right)</em></p>
+<p align="center"><em>Figure 3.6 — Overhead images stitched together (left) and with Canny edge detection applied (right)</em></p>
 
 ### Data Format Normalisation
 
@@ -213,12 +213,12 @@ Overhead imagery was scaled and stitched together using template matching itself
 <p align="center">
   <img src="figures/multi_sensor_normalisation.png" alt="Methods of normalising multiple sensor maps to template-match-ready formats" width="700"/>
 </p>
-<p align="center"><em>Figure 3.6 — Methods of normalising multiple sensor maps to template-match-ready formats</em></p>
+<p align="center"><em>Figure 3.7 — Methods of normalising multiple sensor maps to template-match-ready formats</em></p>
 
 <p align="center">
   <img src="figures/ground_level_ray_cast.png" alt="Ground-level ray-cast and resulting point cloud" width="350"/>
 </p>
-<p align="center"><em>Figure 3.7 — Ground-level ray-cast approximating low-resolution LIDAR (top) and resulting point cloud representation (bottom)</em></p>
+<p align="center"><em>Figure 3.8 — Ground-level ray-cast approximating low-resolution LIDAR (top) and resulting point cloud representation (bottom)</em></p>
 
 ### Free Space Estimation
 
@@ -227,7 +227,7 @@ To minimise the "unknown" area in the vehicle's obstacle grid, a simple raycasti
 <p align="center">
   <img src="figures/smart_infil.png" alt="Point cloud data with free space estimation algorithm" width="500"/>
 </p>
-<p align="center"><em>Figure 3.8 — Point cloud data with simple height-based obstacle threshold (top) and grid enhanced with free space estimation algorithm (bottom)</em></p>
+<p align="center"><em>Figure 3.9 — Point cloud data with simple height-based obstacle threshold (top) and grid enhanced with free space estimation algorithm (bottom)</em></p>
 
 ---
 

@@ -1,0 +1,22 @@
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+env/
+
+# IDE
+.vscode/
+.idea/
+
+# Thesis PDF (Cranfield University copyright - do not distribute)
+thesis_final_as_submitted_compressed.pdf
+
+# Generated outputs (can be regenerated from scripts)
+replication/output/
+replication/data/masking_examples/

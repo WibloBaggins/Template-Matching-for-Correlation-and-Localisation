@@ -1,0 +1,5 @@
+Top-left: (-185.0, 294.0)
+Top-right: (535.0, 294.0)
+Bottom-left: (-185.0, 765.0)
+Bottom-right: (535.0, 765.0)
+Unmasked Area (in pixels): 51584
